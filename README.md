@@ -16,14 +16,25 @@
 - **Docker Infrastructure** - Оркестрация множественных сервисов через compose
 - **Tools Suite** - Инструменты расширений, управление торговцами, утилиты администратора
 
+🌐 **[Официальный сайт](https://erapulsar.com)** | 💬 **[Discord сообщество](https://discord.gg/Y68rjwU9d3)**
+
 ### **DayZ Моды и Модостроительство**
 Пользовательские модификации и инструменты для экосистемы игры DayZ
+
+🎮 **[Мои моды в Steam](https://steamcommunity.com/id/atonce_original)**
 
 ### **Telegram и Discord Боты**
 Боты автоматизации и интеграции для различных сообществ
 
+📱 **[Telegram Канал](https://t.me/samoedolgoe)** - Ревью работ, презентации ботов, новости разработки
+
 ### **Разработка Игр**
 Проекты независимой разработки игр на Unity
+
+### **3D Дизайн и Портфолио**
+3D моделирование, текстурирование и дизайн работы для игр и визуализации
+
+🎨 **[Мои 3D Работы на Sketchfab](https://sketchfab.com/atonce)**
 
 ---
 
@@ -102,18 +113,11 @@
 
 ---
 
-## � Мои Проекты и Платформы
-
-- **🌐 [Erapulsar Platform](https://erapulsar.com)** - Официальный сайт платформы управления серверами DayZ
-- **🎮 [Steam Community](https://steamcommunity.com/id/atonce_original)** - Мои моды и проекты для DayZ
-- **📱 [Telegram Канал](https://t.me/samoedolgoe)** - Ревью работ, презентации ботов, новости разработки и мой блог
-
----
 
 ## 📧 Как со Мной Связаться
 
 - **GitHub**: [@atonce-original](https://github.com/atonce-original)
-- **Discord**: Активен в gaming и development сообществах
+- **Discord**: [Присоединись к серверу](https://discord.gg/Y68rjwU9d3)
 - **Telegram**: [@samoedolgoe](https://t.me/samoedolgoe) - личный канал разработчика
 
 ---
