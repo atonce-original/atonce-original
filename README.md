@@ -1,35 +1,35 @@
-# 👋 Hi, I'm atonce
+# 👋 Привет, я atonce
 
-**Full-Stack Developer | Game Modder | DevOps Enthusiast | Blockchain Platform Builder**
+**Full-Stack Разработчик | Модостроитель | DevOps Энтузиаст | Архитектор Платформ**
 
-Welcome to my GitHub! I'm a passionate developer working on infrastructure, game modifications, and backend platforms. I have a strong background in both creative development and hardcore DevOps/infrastructure work.
+Добро пожаловать на мой GitHub! Я увлечённый разработчик, работающий над инфраструктурой, модификациями игр и бэкенд-платформами. Имею глубокий опыт как в креативной разработке, так и в hardcore DevOps/infrastructure.
 
 ---
 
-## 🎮 What I'm Working On
+## 🎮 Над Чем Я Работаю
 
 ### **Erapulsar Platform** 
-A comprehensive platform for DayZ server owners with:
-- **Platform API** - REST backend with authentication, server management
-- **Portal Web** - React-based admin interface  
-- **Discord Bot** - Real-time server notifications and management
-- **Docker Infrastructure** - Multi-service orchestration with compose
-- **Tools Suite** - Expansion tools, trader management, admin utilities
+Комплексная платформа для владельцев серверов DayZ с:
+- **Platform API** - REST бэкенд с аутентификацией и управлением серверами
+- **Portal Web** - React интерфейс администратора  
+- **Discord Bot** - Уведомления сервера в реальном времени и управление
+- **Docker Infrastructure** - Оркестрация множественных сервисов через compose
+- **Tools Suite** - Инструменты расширений, управление торговцами, утилиты администратора
 
-### **DayZ Mods & Modding**
-Custom modifications and tools for the DayZ game ecosystem
+### **DayZ Моды и Модостроительство**
+Пользовательские модификации и инструменты для экосистемы игры DayZ
 
-### **Telegram & Discord Bots**
-Automation and integration bots for various communities
+### **Telegram и Discord Боты**
+Боты автоматизации и интеграции для различных сообществ
 
-### **Game Development**
-Indie game development projects using Unity
+### **Разработка Игр**
+Проекты независимой разработки игр на Unity
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологический Стек
 
-### **Backend & Infrastructure**
+### **Бэкенд и Инфраструктура**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -37,13 +37,13 @@ Indie game development projects using Unity
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### **DevOps & Tools**
+### **DevOps и Инструменты**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=black)
 
-### **Game Development & 3D**
+### **Разработка Игр и 3D**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Enfusion](https://img.shields.io/badge/Enfusion-FF6B35?style=flat-square)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
@@ -55,74 +55,82 @@ Indie game development projects using Unity
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Статистика
 
 <div align="center">
   
 ![atonce's GitHub stats](https://github-readme-stats.vercel.app/api?username=atonce-original&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atonce-original&layout=compact&theme=dark&hide_border=true)
+![Основные Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=atonce-original&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Key Projects
+## 🎯 Основные Проекты
 
-| Project | Description | Tech Stack |
+| Проект | Описание | Технологии |
 |---------|-------------|-----------|
-| **erapulsar-platform** | Multi-service DayZ server management platform | TypeScript, React, Docker, PostgreSQL, Redis |
-| **Discord Bot** | Real-time server management & notifications | Python/Node.js, Docker |
-| **DayZ Mods** | Custom game modifications and tools | Enfusion, C# |
-| **Telegram Bots** | Community automation and integration | Python/Node.js |
-| **Game Projects** | Indie game development | Unity, C# |
+| **erapulsar-platform** | Многосервисная платформа управления серверами DayZ | TypeScript, React, Docker, PostgreSQL, Redis |
+| **Discord Bot** | Управление сервером и уведомления в реальном времени | Python/Node.js, Docker |
+| **DayZ Mods** | Пользовательские модификации и инструменты для игры | Enfusion, C# |
+| **Telegram Bots** | Боты автоматизации и интеграции для сообществ | Python/Node.js |
+| **Game Projects** | Независимая разработка игр | Unity, C# |
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Основные Навыки
 
-✅ Full-stack platform development with microservices architecture  
-✅ Docker & container orchestration (compose, multi-environment setups)  
-✅ Game modding and Enfusion scripting  
-✅ Bot development (Telegram, Discord)  
-✅ Database design (SQL, Redis)  
-✅ CI/CD automation (GitHub Actions)  
-✅ Linux system administration & server management  
-✅ 3D modeling and game asset creation  
-
----
-
-## 🚀 Philosophy
-
-I believe in:
-- **Clean Architecture** - Separation of concerns, maintainable code
-- **DevOps Culture** - Automation, infrastructure as code, continuous delivery
-- **Gamification** - Making tools and platforms engaging for users
-- **Open Innovation** - Sharing knowledge and contributing to communities
+✅ Full-stack разработка с архитектурой микросервисов  
+✅ Docker и оркестрация контейнеров (compose, мультиокружение конфигурации)  
+✅ Модостроительство для DayZ и scripting на Enfusion  
+✅ Разработка ботов (Telegram, Discord)  
+✅ Проектирование баз данных (SQL, Redis)  
+✅ CI/CD автоматизация (GitHub Actions)  
+✅ Администрирование Linux систем и управление серверами  
+✅ 3D моделирование и создание игровых ассетов  
 
 ---
 
-## 📧 Get in Touch
+## 🚀 Моя Философия
+
+Я верю в:
+- **Чистую Архитектуру** - Разделение ответственности, поддерживаемый код
+- **DevOps Культуру** - Автоматизация, infrastructure as code, continuous delivery
+- **Геймификацию** - Создание привлекательных инструментов и платформ для пользователей
+- **Открытую Инновацию** - Обмен знаниями и вклад в сообщества
+
+---
+
+## � Мои Проекты и Платформы
+
+- **🌐 [Erapulsar Platform](https://erapulsar.com)** - Официальный сайт платформы управления серверами DayZ
+- **🎮 [Steam Community](https://steamcommunity.com/id/atonce_original)** - Мои моды и проекты для DayZ
+- **📱 [Telegram Канал](https://t.me/samoedolgoe)** - Ревью работ, презентации ботов, новости разработки и мой блог
+
+---
+
+## 📧 Как со Мной Связаться
 
 - **GitHub**: [@atonce-original](https://github.com/atonce-original)
-- **Discord**: Active in gaming and development communities
-- **Telegram**: Available for project inquiries
+- **Discord**: Активен в gaming и development сообществах
+- **Telegram**: [@samoedolgoe](https://t.me/samoedolgoe) - личный канал разработчика
 
 ---
 
-## 🎨 Creative & Technical
+## 🎨 Креативные и Технические Навыки
 
-Beyond code, I work with professional creative tools:
-- **3D Modeling**: Blender, ZBrush, Substance Painter
-- **Visual Design**: Adobe Photoshop, Premiere Pro
-- **Audio**: Adobe Audition
+Помимо кода, я работаю с профессиональными инструментами:
+- **3D Моделирование**: Blender, ZBrush, Substance Painter
+- **Визуальный Дизайн**: Adobe Photoshop, Premiere Pro
+- **Аудио**: Adobe Audition
 
-This blend of technical and creative skills allows me to build immersive experiences and beautiful interfaces.
+Такой набор технических и креативных навыков позволяет мне создавать захватывающие впечатления и красивые интерфейсы.
 
 ---
 
 <div align="center">
 
-**Building the future of DayZ server management, one commit at a time 🎮⚙️**
+**Строю будущее управления серверами DayZ, коммит за коммитом 🎮⚙️**
 
 </div>
